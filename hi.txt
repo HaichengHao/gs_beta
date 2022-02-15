@@ -3,3 +3,5 @@ hi , this is a txt ,named "hi"
 this is the demo1 branch insert sentence
 
 online edit,which will be used to test the order-"git pull"
+
+git pull sucess, now ,i will test the order -"git push"
